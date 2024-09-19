@@ -1,3 +1,4 @@
 # app_litoral
 
-A new Flutter project.
+Eduardo Borges
+Guilherme Ferraresi
